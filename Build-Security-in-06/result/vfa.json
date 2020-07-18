@@ -1,0 +1,1665 @@
+{
+  "actions": [
+    {
+      "isMajor": true,
+      "action": "install",
+      "resolves": [
+        {
+          "id": 1084,
+          "path": "next>webpack>yargs>os-locale>mem",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1179,
+          "path": "next>minimist",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1426,
+          "path": "next>uglifyjs-webpack-plugin>serialize-javascript",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1500,
+          "path": "next>webpack>yargs>yargs-parser",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "next",
+      "target": "9.4.4"
+    },
+    {
+      "action": "update",
+      "resolves": [
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-generator>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-helpers>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-template>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-react-remove-prop-types>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-helper-explode-assignable-expression>babel-traverse>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-helpers>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-template>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-get-function-arity>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-optimise-call-expression>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-helper-optimise-call-expression>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-helper-optimise-call-expression>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-duplicate-keys>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-plugin-transform-strict-mode>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-plugin-transform-strict-mode>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-plugin-transform-strict-mode>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-helper-hoist-variables>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-helper-hoist-variables>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-shorthand-properties>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-sticky-regex>babel-helper-regex>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-unicode-regex>babel-helper-regex>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-sticky-regex>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-helper-explode-assignable-expression>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-regenerator>regenerator-transform>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-react>babel-plugin-transform-react-jsx>babel-helper-builder-react-jsx>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>styled-jsx>babel-types>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-generator>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-helpers>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-template>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-react-remove-prop-types>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-helper-explode-assignable-expression>babel-traverse>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-helpers>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-plugin-transform-class-properties>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-template>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>babel-register>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-core>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-sticky-regex>babel-helper-regex>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>babel-preset-env>babel-plugin-transform-es2015-unicode-regex>babel-helper-regex>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>webpack>async>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        },
+        {
+          "id": 1523,
+          "path": "next>write-file-webpack-plugin>lodash",
+          "dev": false,
+          "optional": false,
+          "bundled": false
+        }
+      ],
+      "module": "lodash",
+      "target": "4.17.19",
+      "depth": 9
+    }
+  ],
+  "advisories": {
+    "1084": {
+      "findings": [
+        {
+          "version": "1.1.0",
+          "paths": [
+            "next>webpack>yargs>os-locale>mem"
+          ]
+        }
+      ],
+      "id": 1084,
+      "created": "2019-07-18T21:30:31.935Z",
+      "updated": "2019-11-19T23:31:37.349Z",
+      "deleted": null,
+      "title": "Denial of Service",
+      "found_by": {
+        "link": "",
+        "name": "Juan Campa",
+        "email": ""
+      },
+      "reported_by": {
+        "link": "",
+        "name": "Juan Campa",
+        "email": ""
+      },
+      "module_name": "mem",
+      "cves": [],
+      "vulnerable_versions": "<4.0.0",
+      "patched_versions": ">=4.0.0",
+      "overview": "Versions of `mem` prior to 4.0.0 are vulnerable to Denial of Service (DoS).  The package fails to remove old values from the cache even after a value passes its `maxAge` property. This may allow attackers to exhaust the system's memory if they are able to abuse the application logging.",
+      "recommendation": "Upgrade to version 4.0.0 or later.",
+      "references": "- [Snyk Report](https://snyk.io/vuln/npm:mem:20180117)",
+      "access": "public",
+      "severity": "low",
+      "cwe": "CWE-400",
+      "metadata": {
+        "module_type": "",
+        "exploitability": 2,
+        "affected_components": ""
+      },
+      "url": "https://npmjs.com/advisories/1084"
+    },
+    "1179": {
+      "findings": [
+        {
+          "version": "1.2.0",
+          "paths": [
+            "next>minimist"
+          ]
+        }
+      ],
+      "id": 1179,
+      "created": "2019-09-23T15:01:43.049Z",
+      "updated": "2020-03-18T19:41:45.921Z",
+      "deleted": null,
+      "title": "Prototype Pollution",
+      "found_by": {
+        "link": "https://www.checkmarx.com/resources/blog/",
+        "name": "Checkmarx Research Team",
+        "email": ""
+      },
+      "reported_by": {
+        "link": "https://www.checkmarx.com/resources/blog/",
+        "name": "Checkmarx Research Team",
+        "email": ""
+      },
+      "module_name": "minimist",
+      "cves": [],
+      "vulnerable_versions": "<0.2.1 || >=1.0.0 <1.2.3",
+      "patched_versions": ">=0.2.1 <1.0.0 || >=1.2.3",
+      "overview": "Affected versions of `minimist` are vulnerable to prototype pollution. Arguments are not properly sanitized, allowing an attacker to modify the prototype of `Object`, causing the addition or modification of an existing property that will exist on all objects.  \nParsing the argument `--__proto__.y=Polluted` adds a `y` property with value `Polluted` to all objects. The argument `--__proto__=Polluted` raises and uncaught error and crashes the application.  \nThis is exploitable if attackers have control over the arguments being passed to `minimist`.\n",
+      "recommendation": "Upgrade to versions 0.2.1, 1.2.3 or later.",
+      "references": "- [GitHub commit 1](https://github.com/substack/minimist/commit/4cf1354839cb972e38496d35e12f806eea92c11f#diff-a1e0ee62c91705696ddb71aa30ad4f95)\n- [GitHub commit 2](https://github.com/substack/minimist/commit/63e7ed05aa4b1889ec2f3b196426db4500cbda94)",
+      "access": "public",
+      "severity": "low",
+      "cwe": "CWE-471",
+      "metadata": {
+        "module_type": "",
+        "exploitability": 1,
+        "affected_components": ""
+      },
+      "url": "https://npmjs.com/advisories/1179"
+    },
+    "1426": {
+      "findings": [
+        {
+          "version": "1.9.1",
+          "paths": [
+            "next>uglifyjs-webpack-plugin>serialize-javascript"
+          ]
+        }
+      ],
+      "id": 1426,
+      "created": "2019-12-09T15:26:05.019Z",
+      "updated": "2019-12-10T19:05:13.433Z",
+      "deleted": null,
+      "title": "Cross-Site Scripting",
+      "found_by": {
+        "link": "https://twitter.com/okuryu",
+        "name": "Ryuichi Okumura",
+        "email": ""
+      },
+      "reported_by": {
+        "link": "https://twitter.com/okuryu",
+        "name": "Ryuichi Okumura",
+        "email": ""
+      },
+      "module_name": "serialize-javascript",
+      "cves": [
+        "CVE-2019-16769"
+      ],
+      "vulnerable_versions": "<2.1.1",
+      "patched_versions": ">=2.1.1",
+      "overview": "Versions of `serialize-javascript` prior to 2.1.1 are vulnerable to Cross-Site Scripting (XSS). The package fails to sanitize serialized regular expressions. This vulnerability does not affect Node.js applications.",
+      "recommendation": "Upgrade to version 2.1.1 or later.",
+      "references": "- [GitHub advisory](https://github.com/yahoo/serialize-javascript/security/advisories/GHSA-h9rv-jmmf-4pgx)",
+      "access": "public",
+      "severity": "moderate",
+      "cwe": "CWE-79",
+      "metadata": {
+        "module_type": "",
+        "exploitability": 3,
+        "affected_components": ""
+      },
+      "url": "https://npmjs.com/advisories/1426"
+    },
+    "1500": {
+      "findings": [
+        {
+          "version": "7.0.0",
+          "paths": [
+            "next>webpack>yargs>yargs-parser"
+          ]
+        }
+      ],
+      "id": 1500,
+      "created": "2020-03-26T19:21:50.174Z",
+      "updated": "2020-05-01T01:05:15.020Z",
+      "deleted": null,
+      "title": "Prototype Pollution",
+      "found_by": {
+        "link": "",
+        "name": "Snyk Security Team",
+        "email": ""
+      },
+      "reported_by": {
+        "link": "",
+        "name": "Snyk Security Team",
+        "email": ""
+      },
+      "module_name": "yargs-parser",
+      "cves": [],
+      "vulnerable_versions": "<13.1.2 || >=14.0.0 <15.0.1 || >=16.0.0 <18.1.2",
+      "patched_versions": ">=13.1.2 <14.0.0 || >=15.0.1 <16.0.0 || >=18.1.2",
+      "overview": "Affected versions of `yargs-parser` are vulnerable to prototype pollution. Arguments are not properly sanitized, allowing an attacker to modify the prototype of `Object`, causing the addition or modification of an existing property that will exist on all objects.  \nParsing the argument `--foo.__proto__.bar baz'` adds a `bar` property with value `baz` to all objects. This is only exploitable if attackers have control over the arguments being passed to `yargs-parser`.\n",
+      "recommendation": "Upgrade to versions 13.1.2, 15.0.1, 18.1.1 or later.",
+      "references": "- [Snyk Report](https://snyk.io/vuln/SNYK-JS-YARGSPARSER-560381)",
+      "access": "public",
+      "severity": "low",
+      "cwe": "CWE-471",
+      "metadata": {
+        "module_type": "",
+        "exploitability": 1,
+        "affected_components": ""
+      },
+      "url": "https://npmjs.com/advisories/1500"
+    },
+    "1523": {
+      "findings": [
+        {
+          "version": "4.17.15",
+          "paths": [
+            "next>babel-core>babel-generator>babel-types>lodash",
+            "next>babel-core>babel-helpers>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-core>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-plugin-transform-class-properties>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-template>babel-traverse>babel-types>lodash",
+            "next>babel-core>babel-traverse>babel-types>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-traverse>babel-types>lodash",
+            "next>babel-plugin-transform-react-remove-prop-types>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-traverse>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-helper-explode-assignable-expression>babel-traverse>babel-types>lodash",
+            "next>babel-core>babel-helpers>babel-template>babel-types>lodash",
+            "next>babel-core>babel-template>babel-types>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>babel-types>lodash",
+            "next>babel-plugin-transform-class-properties>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>babel-types>lodash",
+            "next>babel-template>babel-types>lodash",
+            "next>babel-core>babel-types>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-helper-get-function-arity>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-get-function-arity>babel-types>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-optimise-call-expression>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-helper-optimise-call-expression>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-helper-optimise-call-expression>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-duplicate-keys>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-plugin-transform-strict-mode>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-plugin-transform-strict-mode>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-plugin-transform-strict-mode>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-helper-hoist-variables>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-helper-hoist-variables>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-shorthand-properties>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-sticky-regex>babel-helper-regex>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-unicode-regex>babel-helper-regex>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-sticky-regex>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-helper-explode-assignable-expression>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-types>lodash",
+            "next>babel-preset-env>babel-plugin-transform-regenerator>regenerator-transform>babel-types>lodash",
+            "next>babel-preset-react>babel-plugin-transform-react-jsx>babel-helper-builder-react-jsx>babel-types>lodash",
+            "next>styled-jsx>babel-types>lodash",
+            "next>babel-core>babel-generator>lodash",
+            "next>babel-core>babel-helpers>babel-template>babel-traverse>lodash",
+            "next>babel-core>babel-template>babel-traverse>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>babel-traverse>lodash",
+            "next>babel-plugin-transform-class-properties>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>babel-traverse>lodash",
+            "next>babel-template>babel-traverse>lodash",
+            "next>babel-core>babel-traverse>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-traverse>lodash",
+            "next>babel-plugin-transform-react-remove-prop-types>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-helper-call-delegate>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-traverse>lodash",
+            "next>babel-preset-env>babel-plugin-transform-exponentiation-operator>babel-helper-builder-binary-assignment-operator-visitor>babel-helper-explode-assignable-expression>babel-traverse>lodash",
+            "next>babel-core>babel-helpers>babel-template>lodash",
+            "next>babel-core>babel-template>lodash",
+            "next>babel-plugin-transform-class-properties>babel-helper-function-name>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-helper-function-name>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>babel-helper-function-name>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-function-name>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-function-name>babel-helper-function-name>babel-template>lodash",
+            "next>babel-plugin-transform-class-properties>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-async-to-generator>babel-helper-remap-async-to-generator>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-replace-supers>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-object-super>babel-helper-replace-supers>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-computed-properties>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-plugin-transform-es2015-modules-commonjs>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-commonjs>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-amd>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-plugin-transform-es2015-modules-amd>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-systemjs>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-modules-umd>babel-template>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-parameters>babel-template>lodash",
+            "next>babel-template>lodash",
+            "next>babel-core>babel-register>lodash",
+            "next>babel-core>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-block-scoping>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-classes>babel-helper-define-map>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-sticky-regex>babel-helper-regex>lodash",
+            "next>babel-preset-env>babel-plugin-transform-es2015-unicode-regex>babel-helper-regex>lodash",
+            "next>webpack>async>lodash",
+            "next>write-file-webpack-plugin>lodash"
+          ]
+        }
+      ],
+      "id": 1523,
+      "created": "2020-05-20T01:36:49.357Z",
+      "updated": "2020-07-10T19:23:46.395Z",
+      "deleted": null,
+      "title": "Prototype Pollution",
+      "found_by": {
+        "link": "",
+        "name": "posix",
+        "email": ""
+      },
+      "reported_by": {
+        "link": "",
+        "name": "posix",
+        "email": ""
+      },
+      "module_name": "lodash",
+      "cves": [
+        "CVE-2019-10744"
+      ],
+      "vulnerable_versions": "<4.17.19",
+      "patched_versions": ">=4.17.19",
+      "overview": "Versions of `lodash` prior to 4.17.19 are vulnerable to Prototype Pollution.  The function `zipObjectDeep` allows a malicious user to modify the prototype of `Object` if the property identifiers are user-supplied. Being affected by this issue requires zipping objects based on user-provided property arrays.  \n\nThis vulnerability causes the addition or modification of an existing property that will exist on all objects and may lead to Denial of Service or Code Execution under specific circumstances.",
+      "recommendation": "Upgrade to version 4.17.19 or later.",
+      "references": "- [HackerOne Report](https://hackerone.com/reports/712065)\n- [GitHub Issue](https://github.com/lodash/lodash/issues/4744)",
+      "access": "public",
+      "severity": "low",
+      "cwe": "CWE-471",
+      "metadata": {
+        "module_type": "",
+        "exploitability": 3,
+        "affected_components": ""
+      },
+      "url": "https://npmjs.com/advisories/1523"
+    }
+  },
+  "muted": [],
+  "metadata": {
+    "vulnerabilities": {
+      "info": 0,
+      "low": 177,
+      "moderate": 1,
+      "high": 0,
+      "critical": 0
+    },
+    "dependencies": 562,
+    "devDependencies": 23,
+    "optionalDependencies": 143,
+    "totalDependencies": 728
+  },
+  "runId": "9ea7d79a-b71f-4a32-aafa-3c2d737c0132"
+}
